@@ -34,7 +34,7 @@ GIF created with [RecordIt](https://recordit.co).
 
 ## Notes
 
-Had trouble connecting Xcode with GitHub
+Describe any challenges encountered while building the app.
 
 ## License
 
